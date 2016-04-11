@@ -1,6 +1,6 @@
 # [Periodic Letters](http://thehomeworklife.co.nf/extras/PeriodicLetters)
 Turning text into periodic table elements
-![Periodic Letters](http://s28.postimg.org/dtlkzhowt/agenda_planner.png)
+![Periodic Letters](http://s30.postimg.org/ou8nddci9/periodic_letters.png)
 
 #### Description
 Created for the first quarterly project in Chemistry, this program quickly turns letters into periodic table element-styled blocks.
